@@ -11,8 +11,8 @@
 1. Клонируйте репозиторий на ваш локальный компьютер:
 
    ```bash
-   git clone https://github.com/ваш-репозиторий.git
-   cd ваш-репозиторий
+   git clone https://github.com/TimurTimurych/Marketplace.git
+   cd Marketplace
 
 ### Настройка базы данных
 
